@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+scikit-learn
+matplotlib
+seaborn
+adjustText
+archetypes==0.12.2
+jupyter
